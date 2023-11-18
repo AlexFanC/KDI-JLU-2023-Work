@@ -1,1 +1,1 @@
-
+This project aims to create a financial equity knowledge graph by extracting equity information between companies from three platforms: A-share market, Hong Kong stock market, and the New Third Board. The goal is to provide a one-stop knowledge development and service platform for the entire lifecycle of knowledge in financial scenarios.
